@@ -22,13 +22,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: eliezer.paulo@ufv.br">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="./gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/eliezerbrasilian/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="./linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/channel/UC032_scknHZH5KGw7t2_fHw">
-      <img width="35" src="youtube.svg">
+      <img width="35" src="./youtube.svg">
     </a>
 </div>
   
