@@ -22,13 +22,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: eliezer.paulo@ufv.br">
-      <img width="30" src="./gmail.svg">
+      <img width="30" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999">
     </a>
     <a href = "https://www.linkedin.com/in/eliezerbrasilian/">
       <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
     <a href = "https://www.youtube.com/channel/UC032_scknHZH5KGw7t2_fHw">
-      <img width="35" src="./youtube.svg">
+      <img width="35" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png">
     </a>
 </div>
   
