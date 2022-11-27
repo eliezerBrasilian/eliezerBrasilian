@@ -25,7 +25,7 @@
       <img width="30" src="./gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/eliezerbrasilian/">
-      <img width="25" src="./linkedin.svg">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
     <a href = "https://www.youtube.com/channel/UC032_scknHZH5KGw7t2_fHw">
       <img width="35" src="./youtube.svg">
