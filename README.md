@@ -1,11 +1,29 @@
-## Oi, meu nome é Eliezer e sou Desenvolvedor Android!
-## Hi, my name is Eliezer and i am an Android Developer!
-<br>
-<div style={display:flex,flex-direction:column}>
-  <img  height="250em" src="https://github-readme-stats.vercel.app/api?username=eliezerBrasilian&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerBrasilian&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+# Hi, I'm Eliezer - Android Developer!
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliezerBrasilian&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerBrasilian&layout=compact&langs_count=16&theme=great-gatsby)
+
+## Technologies I Love
+- JavaScript
+- Kotlin
+- React
+- HTML5
+- CSS3
+- C/C++
+- Node.js
+
+## Connect with Me
+[Email](mailto:eliezer.paulo@ufv.br)
+[LinkedIn](https://www.linkedin.com/in/eliezerbrasilian/)
+[YouTube](https://www.youtube.com/channel/UC032_scknHZH5KGw7t2_fHw)
+
+## Fun Code Animation
+![Coding Time](code.gif)
+
+## Snake Animation
+![Snake Animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
