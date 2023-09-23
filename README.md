@@ -12,9 +12,9 @@ My toolkit includes:
 
 - Front-End: HTML5, CSS3, JavaScript
 - Back-End: Node.js (Express)
-- Database: MongoDB
+- Database: MySQL, PostgreSQL, Firebase
 - .NET Development with C#
-- Mobile: React Native
+- Mobile: React Native, Kotlin
 - Version Control: Git
 
 ## Connect with Me
