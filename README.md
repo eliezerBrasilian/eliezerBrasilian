@@ -1,4 +1,4 @@
-# Hello, I'm Eliezer - Full-Stack Developer 👋
+# Hello, I'm Eliezer - React-Native Developer 👋
 
 As a passionate Full-Stack Developer, I specialize in creating comprehensive solutions that encompass both front-end and back-end development. With expertise in JavaScript and C#, I build robust and elegant applications to meet modern business needs.
 
