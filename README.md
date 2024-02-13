@@ -12,7 +12,6 @@ My toolkit includes:
 - Front-End: HTML5, CSS3, JavaScript
 - Back-End: Node.js, Spring Boot
 - Database: MySQL, PostgreSQL, Firebase,
-- .NET Development with C#
 - Mobile: React Native, Jetpack Compose
 - Version Control: Git
 
